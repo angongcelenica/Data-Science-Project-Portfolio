@@ -69,5 +69,43 @@ This code demonstrates a loop programme to show the 10% yearly depreciation of a
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/bikecode.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/bikedep.png)
 
+# Numpy & Pandas
+NumPy is a library for Python that uses mathematical functions on large datasets and multi-dimensional arrays and matrices. Additionally Pandas is high level data manipultion tool that uses dataframes and series to analyse the data. It can also be used to build on packages such as NumPy which uses numerical data whereas Pandas uses tabular data.
+
+## Numpy
+
+Numpy is a great tool for data analysis on arrays, which performs various tasks and handles large datasets effectively and efficiently at fast speeds. NumPy arrays were created in order to overcome the issue of not being able to calculate effectively and efficiently, due to arrays being more simpler to create. Arrays are described as a collection of values that can have one or more dimensions. An array with one dimension is normally known as a vector and two dimensions is a matrix. As you can see below I explored the basic NumPy functions to create arrays, do some basic calculations as well as reshaping or slicing arrays.
+
+
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/numpy1.png)  
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/numpy2.png)
+
+## Pandas
+
+Pandas is a library Python which is also used in addition with other packages such as NumPy. As previously discussed it can be used for data manipulation, analysis and visualisation because of how easy it is to import, visualise and analyse data. I used Jupyter Notebook to import external data from a CSV file to analyse the data using Pandas and NumPy. As you can see below is a hypothetical example of analysing the data for stakeholders that want to know which holiday destination, city and hotel is the most popular with high or low ratings. This allows the stakeholders to see what business decisions they need to make depending on the results of the data which can result in taking action sucha as removing the worst rated destination off their website. Moreover, I accomplished this by using calculations to find the mean, max, min and filtering the data with conditions and boolean indexing.
+
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/pandascsv1.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/pandascsv2.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/pandascsv3.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/pandascsv4.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/pandascsv5.png)
+
+## Data Visualisations
+
+In addition to analysing the data the next step in the process is to visualise the data to simplify and communicate the data so the stakeholders are able to understand the results. Below it shows a scatter plot that visualises the correlation between all-inclusive hotels and score of the destination. It shows that the more all-inclusive hotels there is the likelehood the score will be higher. I also created a bar chart to visualise all the destinations and their score.
+
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/pandaviz1.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/pandaviz2.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/pandaviz3.png)
+
+
+
+
+
+
+
+
+
+
 
 
