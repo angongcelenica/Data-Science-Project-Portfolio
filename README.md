@@ -119,6 +119,21 @@ This is another example of using built in packages to simplify the data analysis
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/R/rs3.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/R/rs4.png)
 
+# SQL
+## What is SQL ?
+The Structured Query Language (SQL) is designed to communicate with databases and widely used for most relational database systems. It can be used for creating, accessing and manipulating which allows for searching, storing, updating, editing, retrieving and deleting data from a database.
+
+## Creating a database, running complex queries & joining tables
+I created 2 databases with the goal of making a relational database. The tables contain customers personal information and order details which are in seperate databases. In order to create a relational database I used the JOIN clause to compile the customers personal and order details into one table to make it easier to view and retrieve data if needed. As you can see below I demonstrated how I used other SQL statements to retrieve data from a table. 
+
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/SQL/sql1.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/SQL/sql2.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/SQL/sql3.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/SQL/sql4.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/SQL/sql5.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/SQL/sql6.png)
+
+
 
 
 
