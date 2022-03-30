@@ -1,4 +1,4 @@
-# Data-Science-Project-Portfolio
+# Data Science Portfolio
 
 # Python
 ## What is Python?
