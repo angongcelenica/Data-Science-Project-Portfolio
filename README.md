@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## Introduction
-I compiled all my projects to showcase the skills I developed partaking in the Data Science course with Tech Talent Academy. I used Python (NumPy & Pandas), R, SQL, and Microsoft Excel to create user input programmes, input data and creating visualisations. 
+I compiled all my projects to showcase the skills I developed partaking in the Data Science course with Tech Talent Academy. I used Python (NumPy & Pandas), R, SQL, and Microsoft Excel to create user input programmes, input data and created visualisations. 
 
 ## Python
 ### What is Python?
