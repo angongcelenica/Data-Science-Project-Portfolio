@@ -145,7 +145,7 @@ Using Microsoft Excel I created a spreadsheet model based on a dataset I downloa
 ### Data Visualisations
 To create data visualisations I desinged a scatter plot to visualise the average petrol tax based on income, it showed that the average petrol tax is £7.76 and the average income being around £30,205.96 per year. The second is a horizontal bar chart which visualises the number of paved highways based on cities in the UK. It illustrated that Salford had the highest amount of paved highways in the UK.
 
-![](
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Microsoft%20Excel%20viz/avgincometax.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Microsoft%20Excel%20viz/paved_highways_petrol.png)
 
 
