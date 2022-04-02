@@ -149,6 +149,25 @@ To create data visualisations I designed a scatter plot to visualise the average
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Microsoft%20Excel%20viz/paved_highways_petrol.png)
 
 ## Machine Learning
+### What is Machine Learning ?
+
+### Tensorflow
+
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow2.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow3.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow4.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow5.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow6.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow7.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow8.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow9.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow10.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow11.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow12.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow13.png)
+![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow14.png)
+
 
 
 
