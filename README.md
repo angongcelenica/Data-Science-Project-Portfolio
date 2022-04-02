@@ -143,9 +143,9 @@ Data Modelling is the process of investigating real life scenarios from current 
 Using Microsoft Excel I created a spreadsheet model based on a dataset I downloaded from Kaggle.com which was based on petrol consumption. I used the data from the dataset to base it on cities across the UK to create a hypothetical scenario. To begin modelling the data I did some basic calculations and used built in formulas within Microsoft Excel such as AUTOSUM, MAX, MIN, AVERAGE, COUNT and COUNTIF. I used the VLOOKUP formula to make it easier to look up specific information in the dataset. Microsoft has a great feature known as Validation which allows you to control the type of data entered in your worksheet. Using the Validation function I was able to ensure only data from 2019 was entered.
 
 ### Data Visualisations
-To create data visualisations I desinged a scatter plot to visualise the average petrol tax based on income. The second is a horizontal bar chart which visualises the number of paved highways based on cities in the UK. It illustrated that Salford had the highest amount of paved highways in the UK.
+To create data visualisations I desinged a scatter plot to visualise the average petrol tax based on income, it showed that the average petrol tax is £7.76 and the average income being around £30,205.96 per year. The second is a horizontal bar chart which visualises the number of paved highways based on cities in the UK. It illustrated that Salford had the highest amount of paved highways in the UK.
 
-![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Microsoft%20Excel%20viz/avgincomepetrol.png)
+![](
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Microsoft%20Excel%20viz/paved_highways_petrol.png)
 
 
