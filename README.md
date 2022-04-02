@@ -148,6 +148,8 @@ To create data visualisations I designed a scatter plot to visualise the average
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Microsoft%20Excel%20viz/avgincometax.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Microsoft%20Excel%20viz/paved_highways_petrol.png)
 
+## Machine Learning
+
 
 
 
