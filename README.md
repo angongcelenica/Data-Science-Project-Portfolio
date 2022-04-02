@@ -6,7 +6,7 @@ I compiled all my projects to showcase the skills I developed partaking in the D
 ## Python
 ### What is Python?
 
-Python is a computer programming language that is commonly used for developing websites and software, task automation, data anlysis and visualisation. It is described as an all-purpose language which can be used to create a variety of different programmes and one of the most used programming languages. Using Python I created some basic user input programmes, a passing and procedures parameteter to perform basic calculations and a loop programme.
+Python is on of the most used computer programming language that is commonly used for developing websites and software, task automation, data analysis and visualisation. It is described as an all-purpose language which can be used to create a variety of different programmes. Using Python I created some basic user input programmes, passing and procedures parameteter to perform basic calculations and a loop programme.
 
 ### Mini Python Projects
 Project 1 – Creating a random number guessing game: 
@@ -38,7 +38,7 @@ This code shows how to create an interactive number guessing game. The user has 
 
 Project 4 – Coronavirus Home-Testing Kit Eligibilty: 
 
-This is an example of a data flow diagram I created to plan, breakdown and visualise the steps to create a User Input Programme. The goal was to create an eligibility criteria for customers to order a Coronavirus Home-Testing kit. Using the data flow diagram I executed the code that would create this User Input Programme with multiple conditions in order to filter out the users that were elgible for the home-testing kits from those that would not be able to qualify.
+This is an example of a data flow diagram I created to plan, breakdown and visualise the steps to create a User Input Programme. The goal was to create an eligibility criteria for customers to order a Coronavirus Home-Testing kit. Using the data flow diagram as my plan to create a code to execute a User Input Programme with multiple conditions in order to filter out the users that were elgible for the home-testing kits from those that would not be able to qualify.
 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/covidpic.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/dfdcode.png) 
@@ -49,7 +49,7 @@ This is an example of a data flow diagram I created to plan, breakdown and visua
 
 Project 5 – Creating procedures and passing parameters to perform calculations:
 
-I created a programme to perform basic calculations using procedures and passing parameters the pictures below demonstrates an example of the output. In order to ensure the validity of calculation programme I ensured that there was a condition to display an error message if none of the choice of math operators were used.
+I created a calculation user input programme that would perform basic calculations, as well as using procedures and passing parameters; which pictures below demonstrates. In order to ensure the validity of calculation programme I ensured that there was a condition to display an error message if none of the choice of math operators were used.
 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/operators.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/opnum.png)
@@ -67,7 +67,7 @@ This code demonstrates how I created a grade converter for students to convert p
 
 Project 7 - Yearly motorbike depreciation of 10% until it reaches below £1000:
 
-This code demonstrates a loop programme to show the 10% yearly depreciation of a motorbike until it reached below £1000. The starting price of the motorbike was £2000 and the programme calculated and printed the result for each year until it finally hit below £1000 in Year 8.
+This code demonstrates a loop programme to show the 10% yearly depreciation of a motorbike until it reaches below £1000. The starting price of the motorbike was £2000 and the programme calculated and printed the result for each year until it finally hit below £1000 in Year 8.
 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/bikecode.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/bikedep.png)
@@ -77,7 +77,7 @@ NumPy is a library for Python that uses mathematical functions on large datasets
 
 ### Numpy
 
-Numpy is a great tool for data analysis on arrays, which performs various tasks and handles large datasets effectively and efficiently at fast speeds. NumPy arrays were created in order to overcome the issue of not being able to calculate effectively and efficiently, due to arrays being more simpler to create. Arrays are described as a collection of values that can have one or more dimensions. An array with one dimension is normally known as a vector and two dimensions is a matrix. As you can see below I explored the basic NumPy functions to create arrays, do some basic calculations as well as reshaping or slicing arrays.
+Numpy is a great tool for data analysis on arrays because it performs various tasks and handles large datasets effectively and efficiently at fast speeds. Arrays are described as a collection of values that can have one or more dimensions. An array with one dimension is normally known as a vector and two dimensions is a matrix. As you can see below I explored the basic NumPy functions to create arrays, perform basic calculations and reshaping or slicing arrays.
 
 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/numpy1.png)  
@@ -85,7 +85,7 @@ Numpy is a great tool for data analysis on arrays, which performs various tasks 
 
 ### Pandas
 
-Pandas is a library Python which is also used in addition with other packages such as NumPy. As previously discussed it can be used for data manipulation, analysis and visualisation because of how easy it is to import, visualise and analyse data. I used Jupyter Notebook to import external data from a CSV file to analyse the data using Pandas and NumPy. As you can see below is a hypothetical example of analysing the data for stakeholders that want to know which holiday destination, city and hotel is the most popular with high or low ratings. This allows the stakeholders to see what business decisions they need to make depending on the results of the data which can result in taking action sucha as removing the worst rated destination off their website. Moreover, I accomplished this by using calculations to find the mean, max, min and filtering the data with conditions and boolean indexing.
+Pandas is a library within Python which can be used in addition to other packages such as NumPy. Pandas can be used for data manipulation, analysis and data visualisation because of how easy it is to import, visualise and analyse data. I used Jupyter Notebook to import external data from a CSV file to analyse the data using Pandas and NumPy. As you can see below this is a hypothetical example of analysing data for stakeholders that want information on which holiday destination, city and hotel are the most popular with high or low ratings. This allows the stakeholders to understand what business decisions they need to make which can result in taking action by removing the worst rated destination off their website. Moreover, I accomplished this by performing calculations to find the mean, max, min and filtering the data with conditions and boolean indexing.
 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/pandascsv1.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/pandascsv2.png)
@@ -95,7 +95,7 @@ Pandas is a library Python which is also used in addition with other packages su
 
 ### Data Visualisations
 
-In addition to analysing the data the next step in the process is to visualise the data to simplify and communicate the data so the stakeholders are able to understand the results. Below it shows a scatter plot that visualises the correlation between all-inclusive hotels and score of the destination. It shows that the more all-inclusive hotels there is the likelehood the score will be higher. I also created a bar chart to visualise all the destinations and their score.
+The next step in the process is to simplify and communicate the data visually so the stakeholders are able to understand the results. Below it shows a scatter plot that visualises the correlation between all-inclusive hotels and score of the destination and that the more all-inclusive hotels there are the likelehood the score will be higher. I also created a bar chart to visualise all the destinations and their score.
 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/pandaviz1.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Python/pandaviz2.png)
@@ -105,7 +105,7 @@ In addition to analysing the data the next step in the process is to visualise t
 R is an Integrated Programming Environment (IDE) mainly used for statistical data analysis, visualisation and machine learning projects. R has multiple built in library tools to make data cleaning and analysis more simple and convenient.
 
 ### Writing a Basic R Program
-R has mulitple built-in functions that can be used for data input/output, structure and variables, the projects below demontsrate the different ways in which you can use them. In order to create a basic R program I assigned a value to a variable that you can continue to build on. I created a basic user input program that required the users name and age. I assigned values to a variable that will generate a list of pesonal information as the output. After creating a sequence of numbers(20-50, 20-60, 51-91) I used built in functions to calculate the mean and sum. I was also able to create a vector of 10 random interger values with a boolean type, these projects show how convenient the built in functions are. I also created a data frame with some personal information of employees such as their name, age, role, gender and length of service as a way to demonstrate the variety of ways you can use R to create data.
+R has mulitple built-in functions that can be used for data input/output, structure and variables, the projects below demontsrate the different ways in which you can use them. In order to create a basic R program I assigned a value to a variable that you can continue to build on. I created a basic user input program that required the users name and age. I assigned values to a variable that will generate a list of personal information as the output. After creating a sequence of numbers(20-50, 20-60, 51-91) I used built in functions to calculate the mean and sum. I was also able to create a vector of 10 random interger values with a boolean type, these projects show how convenient the built in functions are. I also created a data frame with personal information of employees to include their name, age, role, gender and length of service as a way to demonstrate the variety of ways you can use R to create data frames.
  
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/R/rq1.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/R/rq2.png)
@@ -116,7 +116,7 @@ R has mulitple built-in functions that can be used for data input/output, struct
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/R/rse2.png)
 
 ### Using R for Data Visualisations
-This is another example of using built in packages to simplify the data analysis and visualisation process and in this case I demonstrated how I used 'ggplot2' to create my data visualisations. It is important to first import the ggplot library in order to activate the packages to enable the use of functions. As you can see I created some data frames, vectors and matrices to build the foundation to start plotting the data on the graph. This enabled me to create a histogram chart to visualise the weekly lateness frequency rates of employees, a scatter plot to show the attendence rates of students once the schools had reopened, lastly a bar chart to visualise the number of used cars sold in 2019 by car make.
+This is an example of using built in packages to simplify the data visualisation process by demonstrating how I used 'ggplot2'. Firstly, you must import the ggplot library in order to activate the packages to enable the use of functions. As you can see I created some data frames, vectors and matrices to build the foundation to start plotting the data on the graph. This enabled me to create a histogram chart to visualise the weekly lateness frequency rates of employees, a scatter plot to show the attendence rates of students once the schools had reopened, lastly a bar chart to visualise the number of used cars sold in 2019 by car make.
 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/R/rs1.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/R/rs3.png)
@@ -124,10 +124,10 @@ This is another example of using built in packages to simplify the data analysis
 
 ## SQL
 ### What is SQL ?
-The Structured Query Language (SQL) is designed to communicate with databases and widely used for most relational database systems. It can be used for creating, accessing and manipulating which allows for searching, storing, updating, editing, retrieving and deleting data from a database.
+The Structured Query Language (SQL) is designed to communicate with databases and is widely used for most relational database systems. It can be used for creating, accessing and manipulating which allows for searching, storing, updating, editing, retrieving and deleting data from a database.
 
 ### Creating a database, running complex queries & joining tables
-I created 2 databases with the goal of making a relational database. The tables contain customers personal information and order details which are in seperate databases. In order to create a relational database I used the JOIN clause to compile the customers personal and order details into one table to make it easier to view and retrieve data if needed. As you can see below I demonstrated how I used other SQL statements to retrieve data from a table. 
+I developed 2 databases with the goal of creating a relational database. The tables contain customers' personal information and order details which are in seperate databases. In order to create a relational database I used the JOIN clause to compile the customers' personal and order details into one table to make it easier to view and retrieve data if needed. As you can see below I demonstrated how I used other SQL statements to retrieve data from a table. 
 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/SQL/sql1.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/SQL/sql2.png)
