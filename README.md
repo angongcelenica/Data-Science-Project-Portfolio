@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## Introduction
-I compiled all my projects to showcase the skills I developed partaking in the Data Science course with Tech Talent Academy. I used Python (NumPy & Pandas), R, SQL, and Microsoft Excel to create user input programmes, input data and created visualisations. 
+I compiled all my projects to showcase the technological skills I developed; partaking in the Data Science course with Tech Talent Academy. The technologies used to create this project includes Python (Numpy, Pandas & Matplotlib), R (with data visualisations), SQL, Microsoft Excel and Tensorflow for Machine Learning. 
 
 ## Python
 ### What is Python?
@@ -150,6 +150,7 @@ To create data visualisations I designed a scatter plot to visualise the average
 
 ## Machine Learning
 ### What is Machine Learning ?
+Machine learning is a subfield of Artificial Intellegence (AI) which uses data and algorithms to train the data and make calssifications or predictions by using statistical methods. This is helpful to businesses as it enables them to use the insights to make key business decisions through the insight gained fromm these data mining projects. The most widely known Machine learning case is the development of speech recognition which is also known as Automatic Speech Recognition (ASR). it uses Natural Language Processing (NLP) to process human speech into a written format.
 
 ### Tensorflow
 
