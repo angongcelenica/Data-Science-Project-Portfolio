@@ -150,9 +150,10 @@ To create data visualisations I designed a scatter plot to visualise the average
 
 ## Machine Learning
 ### What is Machine Learning ?
-Machine learning is a subfield of Artificial Intellegence (AI) which uses data and algorithms to train the data and make calssifications or predictions by using statistical methods. This is helpful to businesses as it enables them to use the insights to make key business decisions through the insight gained fromm these data mining projects. The most widely known Machine learning case is the development of speech recognition which is also known as Automatic Speech Recognition (ASR). it uses Natural Language Processing (NLP) to process human speech into a written format.
+Machine learning is a subfield of Artificial Intellegence (AI) which uses data and algorithms to train the data and make calssifications or predictions by using statistical methods. This is helpful to businesses as it enables them to use the insights to make key business decisions through the insight gained fromm these data mining projects. The most widely known Machine learning case is the development of speech recognition which is also known as Automatic Speech Recognition (ASR). it uses Natural Language Processing (NLP) to process human speech into a written format. Another great example are customer service chat bots developed that replace human agents to answer the most frequently asked questions.
 
 ### Tensorflow
+
 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow2.png)
