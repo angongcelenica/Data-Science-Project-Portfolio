@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## Introduction
-I compiled all my projects to showcase the technological skills I developed taking the Data Science course with Tech Talent Academy. The technologies used to create this project includes Python (Numpy, Pandas & Matplotlib), R (with data visualisations), SQL, Microsoft Excel and Tensorflow for Machine Learning. 
+I compiled all my projects to showcase the technological skills I developed taking the Data Science course with Tech Talent Academy. The technologies used to create this project includes Python (Numpy, Pandas & Matplotlib), R (with data visualisations), SQL, Microsoft Excel and Machine Learning. 
 
 ## Python
 ### What is Python?
