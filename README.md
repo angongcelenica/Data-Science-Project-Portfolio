@@ -154,15 +154,17 @@ Machine learning is a subfield of Artificial Intellegence (AI) which uses data a
 
 ### Tensorflow
 Tensorflow is a free open-source software platform primarily used for machine and deep learning which is also a Python library. It is designed to enable fast experimentation with Deep Neural Network. The steps used for machine learning are:
-• Loading dataset
-• Exploring dataset
-• Processing data
-• Visualising data
-• Picking algorithms
-• Train and test datasets
-• Standardise data (scale)
-• Compile and fit
-• Learning from the model and evaluations
+1. Loading dataset
+2. Exploring dataset
+3. Processing data
+4. Visualising data
+5. Picking algorithms
+6. Train and test datasets
+7. Standardise data (scale)
+8. Compile and fit
+9. Learning from the model and evaluations
+
+I used a built in dataset for learning and experimentation purposes from keras. The aim of this task was to use the machine learning process to create an algorithm to correctly classify the images. The project images can be found belowe where you can see it was able to produce low resolution images with the correct labelling.
 
 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow.png)
