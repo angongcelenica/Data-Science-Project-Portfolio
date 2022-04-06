@@ -164,7 +164,7 @@ Tensorflow is a free open-source software platform primarily used for machine an
 8. Compile and fit
 9. Learning from the model and evaluations
 
-I used a built in dataset for learning and experimentation purposes from keras. The aim of this task was to use the machine learning process to create an algorithm to correctly classify the images. The project images can be found belowe where you can see it was able to produce low resolution images with the correct labelling.
+I used a built in dataset for learning and experimentation purposes imported from keras. The aim of this task was to use the machine learning process to create an algorithm to correctly classify the images. The project images can be found below where you can see it was able to produce low resolution images with the correct labelling.
 
 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow.png)
@@ -183,7 +183,7 @@ I used a built in dataset for learning and experimentation purposes from keras. 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow14.png)
 
 ### Sci-kit Learn 
-The Sci-kit learn package is a part of the Python library which can be used for supervised or unsupervised learning.
+The Sci-kit learn package is a part of the Python library which can be used for many supervised or unsupervised learning such as regression, classification, clustering, model selection and preprocessing. It is also built upon technologies such as NumPy, Pandas and Matplotlib. Using Sci-kit I created a Linear Regression Model as well as using the machine learning steps to predict the correlation between students scores and hours they've studied. The results of this Linear Regression Model is shown below. 
 
 
 
