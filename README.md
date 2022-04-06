@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## Introduction
-I compiled all my projects to showcase the technological skills I developed; partaking in the Data Science course with Tech Talent Academy. The technologies used to create this project includes Python (Numpy, Pandas & Matplotlib), R (with data visualisations), SQL, Microsoft Excel and Tensorflow for Machine Learning. 
+I compiled all my projects to showcase the technological skills I developed taking the Data Science course with Tech Talent Academy. The technologies used to create this project includes Python (Numpy, Pandas & Matplotlib), R (with data visualisations), SQL, Microsoft Excel and Tensorflow for Machine Learning. 
 
 ## Python
 ### What is Python?
@@ -153,7 +153,16 @@ To create data visualisations I designed a scatter plot to visualise the average
 Machine learning is a subfield of Artificial Intellegence (AI) which uses data and algorithms to train the data to make calssifications or predictions by using statistical methods. This is helpful to businesses as it enables them to make key business decisions from the insight gained from these data mining projects. The most widely known real-life Machine learning case uses is the development of speech recognition which is also known as Automatic Speech Recognition (ASR). It uses Natural Language Processing (NLP) to process human speech into a written format. Another great example are customer service chat bots developed to replace human agents to answer the most frequently asked questions from customers.
 
 ### Tensorflow
-Tensorflow is a free open-source software platform primarily used for machine and deep learning which is also a Python library.
+Tensorflow is a free open-source software platform primarily used for machine and deep learning which is also a Python library. It is designed to enable fast experimentation with Deep Neural Network. The steps used for machine learning are:
+• Loading dataset
+• Exploring dataset
+• Processing data
+• Visualising data
+• Picking algorithms
+• Train and test datasets
+• Standardise data (scale)
+• Compile and fit
+• Learning from the model and evaluations
 
 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow.png)
