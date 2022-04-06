@@ -182,7 +182,8 @@ I used a built in dataset for learning and experimentation purposes from keras. 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow13.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow14.png)
 
-
+### Sci-kit Learn 
+The Sci-kit learn package is a part of the Python library which can be used for supervised or unsupervised learning.
 
 
 
