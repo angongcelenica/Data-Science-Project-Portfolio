@@ -182,7 +182,7 @@ I used a built in dataset for learning and experimentation purposes imported fro
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/tensorflow/tensorflow14.png)
 
 ### Sci-kit Learn 
-The Sci-kit learn package is a part of the Python library which can be used for many supervised or unsupervised learning such as regression, classification, clustering, model selection and preprocessing. It is also built upon technologies such as NumPy, Pandas and Matplotlib. Using Sci-kit I created a Linear Regression Model as well as using the machine learning steps to predict the correlation between students scores and hours they've studied. The results of this Linear Regression Model is shown below. 
+The Sci-kit learn package is a part of the Python library which can be used for many supervised or unsupervised learning such as regression, classification, clustering, model selection and preprocessing. It is also built upon technologies such as NumPy, Pandas and Matplotlib. Using Sci-kit I created a Linear Regression Model as well as using the machine learning steps to predict the correlation between students scores and hours they've studied by using Matplotlib. The results of this Linear Regression Model is shown below. 
 
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Machine%20learning/scikit.png)
 ![](https://github.com/angongcelenica/Data-Science-Project-Portfolio/blob/main/images/Machine%20learning/scikit2.png)
